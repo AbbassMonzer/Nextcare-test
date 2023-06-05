@@ -1,0 +1,15 @@
+.loading {
+  position: absolute;
+  width: 100%;
+  height: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: center;
+  z-index: 1;
+}
+
+.mat-card{
+  width: 50%;
+  margin: 0 auto;
+}
